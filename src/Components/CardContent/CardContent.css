@@ -1,6 +1,8 @@
 .card-content {
     display: flex;
     flex-direction: column;
+    justify-content: space-around;
+    height: 300px;
 }
 .card-content img {
     max-width: 80px;

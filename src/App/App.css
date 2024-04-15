@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     color: white;
+    font-family: "Lexend Deca", sans-serif;
 }
 
 body{
@@ -15,8 +16,4 @@ body{
 body div{
     display: flex;
     height: 600px;
-}
-o{
-    color: #e38826;
-    color: #006970,#004241
 }
